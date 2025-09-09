@@ -63,9 +63,19 @@ print("Hello AI World! My apprenticeship begins.")
 
 ---
 
-## 🚀 Next Steps
-- **Day 5** → Advanced Pandas (Merging, Joining, Aggregations)  
-- **Day 6** → Data Visualization with Matplotlib & Seaborn  
-- **Day 7** → Exploratory Data Analysis (EDA)  
+### **Day 5 — Advanced Pandas: Merging & Aggregations**
+
+- **Merged multiple DataFrames** using:
+  - `pd.merge(students, marks, on="student_id", how="inner")`
+  - Learned about `inner`, `left`, `right`, and `outer` joins.
+- Performed **aggregations**:
+  - `.sum()`, `.mean()`, `.groupby()`
+- Worked with **CSV input/output**:
+  - Saved final merged DataFrame as `day5_final_students.csv`
+- Practiced **filtering, sorting, and updating DataFrames**.
+
+📌 Notebook: `day5_advanced_pandas.ipynb`  
+📌 CSV: `day5_final_students.csv`
 
 ---
+
