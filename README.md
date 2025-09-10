@@ -77,5 +77,33 @@ print("Hello AI World! My apprenticeship begins.")
 📌 Notebook: `day5_advanced_pandas.ipynb`  
 📌 CSV: `day5_final_students.csv`
 
+
 ---
+
+
+### **Day 6 — Data Visualization (Matplotlib & Seaborn)**
+
+**Dataset:** Created a student dataset with columns → `Name`, `StudyHours`, `Marks`.
+
+---
+
+#### 🔹 Matplotlib
+- **Line Plot** → StudyHours vs Marks  
+- **Bar Chart** → Student Names vs Marks  
+- **Histogram** → Marks distribution  
+
+---
+
+#### 🔹 Seaborn
+- **Barplot** → Student Names vs Marks  
+- **Histplot** → Marks distribution with KDE  
+- **Scatterplot** → StudyHours vs Marks  
+
+---
+
+📌 Notebook: `day6_data_visualization.ipynb`  
+✅ Learned how to create basic plots with Matplotlib and Seaborn.  
+
+
+
 
